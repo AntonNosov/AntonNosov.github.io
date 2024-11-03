@@ -11,7 +11,7 @@ With over 6 years of experience, I specialize in building high-performance, scal
 
 ## Projects
 - **[FastSkipper](https://fastskipper.com/)**: Real-time telemetric tracking platform for sailing teams.
-- **NestJS Starter Kit**: A ready-to-use backend starter for NestJS and TypeScript.
+- **[NestJS Starter Kit](https://github.com/AntonNosov/nestjs-start-template)**: A ready-to-use backend starter for NestJS and TypeScript.
 
 ## Blog
 - [The first article](./_posts/2024-11-03-first.md)
