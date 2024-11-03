@@ -1,0 +1,12 @@
+title: "Anton Nosov's Portfolio"
+description: "Senior Backend Engineer | AWS, IoT, Node.js, TypeScript"
+theme: jekyll-theme-minimal
+url: "https://anton-nosov.github.io"
+baseurl: ""  # Only use this if your site is in a subdirectory
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Add custom CSS
+include: ["assets/styles.css"]
